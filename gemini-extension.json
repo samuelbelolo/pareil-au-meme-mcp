@@ -1,0 +1,10 @@
+{
+  "name": "pareil-au-meme",
+  "version": "1.1.1",
+  "description": "Checks a name against French trademarks in force, by spelling and by sound. Free, no account.",
+  "mcpServers": {
+    "pareil-au-meme": {
+      "httpUrl": "https://pareil-au-meme.fr/mcp"
+    }
+  }
+}
