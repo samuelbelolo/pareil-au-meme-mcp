@@ -1,5 +1,7 @@
 # Pareil au même MCP server
 
+[![Pareil au même MCP connector](https://glama.ai/mcp/connectors/fr.pareil-au-meme/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fr.pareil-au-meme/mcp)
+
 Check whether a brand name is already registered as a trademark in France, by spelling and by sound.
 
 Pareil au même is a hosted, read-only MCP server. It compares a name with more than 1.4 million French trademarks in force, from the public data of INPI, the French trademark office. It is free, needs no account or API key, and has nothing to install: you add one address to your agent.
